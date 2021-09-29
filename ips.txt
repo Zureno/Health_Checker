@@ -1,0 +1,3 @@
+ws.com
+dns.google
+1.1.1.1
